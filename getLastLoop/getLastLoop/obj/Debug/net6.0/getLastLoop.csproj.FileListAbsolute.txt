@@ -1,0 +1,15 @@
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\bin\Debug\net6.0\getLastLoop.exe
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\bin\Debug\net6.0\getLastLoop.deps.json
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\bin\Debug\net6.0\getLastLoop.runtimeconfig.json
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\bin\Debug\net6.0\getLastLoop.dll
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\bin\Debug\net6.0\getLastLoop.pdb
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.csproj.AssemblyReference.cache
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.AssemblyInfoInputs.cache
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.AssemblyInfo.cs
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.csproj.CoreCompileInputs.cache
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.dll
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\refint\getLastLoop.dll
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.pdb
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\getLastLoop.genruntimeconfig.cache
+C:\Users\Sânderson\OneDrive\Área de Trabalho\TestRDI\getLastLoop\getLastLoop\obj\Debug\net6.0\ref\getLastLoop.dll
